@@ -1,8 +1,13 @@
 # clima1_oop2  ☁ Week3 
-This project is taken from the course below.
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-## Our Goal
+
+## Our Goal For Today 24 August 2022: 
+1- Fix some bugs and errors in the code.
+2- Send weather data from LoadingScreen to LocationScreen via LocationScreen constructor
+3- Create variables inside LocationScreen and use them to get data and show on the UI.
+4- Create a funcation name updateUI which takes the data to update UI using the varialbes in step 3.
+5- Activate refresh  and city search buttons in LocationScreen.
+
 
 The objective of this tutorial is to learn about asynchronous programming in Dart. We'll look at how to carry out time consuming tasks such as getting device location and networking to get data from the internet.
 
